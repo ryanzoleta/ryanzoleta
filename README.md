@@ -4,7 +4,7 @@
 
 - 🚧 [tripfoo](https://tripfoo.com/) - AI trip planner (under construction...)
 - [toll.ph](https://toll.ph/) - philippine toll fee calculator. #2 on Google SEO (10k views/month, $0/month)
-- [simplifast](https://apps.apple.com/ph/app/simplifast-fasting-tracker/id6714461740) - fasting app for minimalists (#845 under "fasting tracker" on app store)
+- [simplifast](https://apps.apple.com/ph/app/simplifast-fasting-tracker/id6714461740) - fasting app for minimalists (#845 "fasting tracker" on ios)
 - [SerifGPT]() - chrome extension to make ChatGPT look like Claude
 - [timemap](https://timemap.cc/home) - heatmap grid for toggl
 

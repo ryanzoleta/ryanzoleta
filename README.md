@@ -9,7 +9,7 @@
 
 ### Socials
 
-None. Please do not reach out me.
+None. Please do not seek me out.
 
 ### Tech I use and am half-way decent at
 

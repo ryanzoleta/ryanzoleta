@@ -6,6 +6,7 @@
 - [simplifast](https://apps.apple.com/ph/app/simplifast-fasting-tracker/id6714461740) - fasting app for minimalists (#845 under "fasting tracker" on app store)
 - 🚧 [tripfoo](https://tripfoo.com/) - AI trip planner (build in progress...)
 - [SerifGPT]() - chrome extension to make ChatGPT look like Claude
+- [timemap](https://timemap.cc/home) - heatmap grid for toggl
 
 ### Socials
 

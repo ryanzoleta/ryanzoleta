@@ -1,3 +1,5 @@
+<samp>
+  
 ## Hi there 👋
 
 ### Projects
@@ -21,3 +23,4 @@ None. Please do not seek me out.
 ### Support
 
 If you like any of the stuff I do, why not [buy me a coffee ☕️](https://www.buymeacoffee.com/ryanarnold)
+</samp>

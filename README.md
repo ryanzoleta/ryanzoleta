@@ -11,6 +11,12 @@
 
 None. Please do not reach out me.
 
+### Tech I use and am half-way decent at
+
+- [Svelte](https://svelte.dev/)
+- [Tailwind](https://tailwindcss.com/)
+- [React Native](https://reactnative.dev/)
+
 ### Support
 
 If you like any of the stuff I do, why not [buy me a cofeee ☕️](https://www.buymeacoffee.com/ryanarnold)

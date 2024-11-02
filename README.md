@@ -17,7 +17,6 @@ None. Please do not seek me out.
 ### Tech I use and am half-way "okay" at
 
 - [Svelte](https://svelte.dev/)
-- [Tailwind](https://tailwindcss.com/)
 - [React Native](https://reactnative.dev/)
 
 ### Support
